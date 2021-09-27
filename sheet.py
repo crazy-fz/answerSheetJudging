@@ -226,3 +226,5 @@ if __name__ == "__main__":
     print(IDAnswer)
     cv2.waitKey()
     cv2.destroyAllWindows()
+    cv2.destroyAllWindows()
+    
